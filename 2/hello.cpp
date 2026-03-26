@@ -2,7 +2,6 @@
 
 int main(int argc, char *argv[])
 {
-	printf("hello, C++!\n");
-	printf("hello, C++!\n");
+	printf("hello, world!\n");
 	return 0;
 }
